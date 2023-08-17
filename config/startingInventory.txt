@@ -1,0 +1,2 @@
+minecraft:cooked_beef,32,0
+

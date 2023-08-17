@@ -1,0 +1,8 @@
+********************************
+Class: net.blay09.mods.excompressum.compat.tconstruct.ModSmashingII
+Interfaces: 
+Constructors: 
+	public net.blay09.mods.excompressum.compat.tconstruct.ModSmashingII(net.minecraft.item.ItemStack[] stacks)
+Modifiers using this: 
+	class net.blay09.mods.excompressum.compat.tconstruct.ModSmashingII [NAME=Smashing II, key=Smashing II, stacks=[1xitem.excompressum:double_compressed_diamond_hammer@0], effectIndex=0, random=java.util.Random@931cc1c, ]
+********************************

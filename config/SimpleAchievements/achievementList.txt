@@ -1,0 +1,230 @@
+=== Part 3 ===::1
+Hello and welcome to Questing Mayhem Part 3. This is the 3rd and final questbook of Questing Mayhem. Once you have completed every quest in this questbook, you have fully completed Questing Mayhem! No tricks.::3
+The book is organized in a checklist fashion. Every quest is a checkbox quest. Every quest is simply text.::3
+Click the text of the quest to complete the quest. A green checkmark will appear to the left of it showing that it has been completed. Right click again to uncomplete the quest.::3
+There is no completion detection in this quest book other than your honor. It's up to you to decide when the instructions of a quest have been completed, but you may want to see the last quest for a surprise. All quests in the questbook must be checkmarked in order to have officially completed Questing Mayhem.::3
+Like the previous books, this questbook is organized into "questlines" based on the type of quest they are. Each questline has a description on what the questline is about.::3
+However, there is no way to gate questlines in the Simple Achievements book, so it is possible to complete these quests in any order. The questlines are placed in order of increasing difficulty, though.::3
+Expect quests in this questbook to be more like "challenges" than instructions. You'll see what I mean.::3
+Good luck on your final steps of Questing Mayhem and welcome to Questing Mayhem Part 3!::3
+::0
+::0
+::0
+=== Cleanup ===::1
+There are some fundemental activities you should have done to get to this point. They help streamline simple stuff so the complicated stuff is easier.::0
+Any well established base has probably had most of these processes working for a long time, but just in case it doesn't, this is the time to play catchup and get in on those necessities.::0
+Automate the production of making gravel, sand, and dust from cobblestone.::2
+Automate the sieving of gravel, sand, and dust including the collection of the drops, smelting of the broken, crushed, and powdered ores, and storage of the final product.::2
+Collect, process, and store ores automatically from a Buildcraft Quarry.::2
+Collect, process, and store ores automatically from an Ender Quarry.::2
+Construct and power the Immersive Engineering Metal Press.::2
+Construct and power the Immersive Engineering Bottling Machine.::2
+Construct and power the Immersive Engineering Assembler.::2
+Construct and power the Immserive Engineering Excavator.::2
+Construct and power the Immersive Engineering Crusher.::2
+Construct and power the Immersive Engineering Arc Furnace.::2
+Create an Applied Energistics storage system and store a majority of your items in it.::2
+Autocraft using Applied Energistics Molecular Assemblers.::2
+Autocraft using Applied Energistics ME Interfaces.::2
+Construct and fuel a working Big Reactor that has the dimensions of at least 5x5x5.::2
+Create an automatic mob spawner and killer that uses the Minefactory Reloaded Auto-Spawner.::2
+Create a mob spawner that uses Cursed Earth.::2
+Transport a vanilla mob spawner with a Portaspawner and use it in its own automatic mob spawner and killer.::2
+Create a space station that sustains life.::2
+Fill a Nether Star Generator x64 with 64 nether stars.::2
+CRAFT a Chance Cube.::2
+CRAFT a Chance Icosahedron.::2
+Obtain a Compact Giant Chance Cube using a Neutronium Compressor.::2
+::0
+::0
+::0
+::0
+::0
+=== Thermal Expansion ===::1
+Almost all Thermal Expansion machines have not been required to make in the quest books due to problems with NBT detection. However, this questbook doesn't use item detection so I can force you to make Thermal Expansion machines with honesty!::0
+Craft a Resonant Redstone Furnace.::2
+Craft a Resonant Pulverizer.::2
+Craft a Resonant Sawmill.::2
+Craft a Resonant Induction Smelter.::2
+Craft a Resonant Magma Crucible.::2
+Craft a Resonant Fluid Transposer.::2
+Craft a Resonant Glacial Precipitator.::2
+Craft a Resonant Igneous Extruder.::2
+Craft a Resonant Aqueous Accumulator.::2
+Craft a Resonant Cyclic Assembler.::2
+Craft a Resonant Energetic Infuser.::2
+Craft a Resonant Phytogenic Insolator.::2
+::0
+::0
+=== The Need to Explore ===::1
+It's finally time to explore what Minecraft has to offer once and for all. Pack your bags and start scouting out exciting areas to call homes.::0
+Have at least 2 bases in the overworld each for different purposes in distinct different areas.::2
+Use a railcraft minecart system to connect your 2 overworld bases.::2
+Be able to teleport between your 2 overworld bases.::2
+Have a safe base of operations in the Nether with access to necessary items.::2
+Have a safe base of operations in the end with access to necessary items.::2
+Have a safe base of operations in the aether with access to necessary items.::2
+Have a safe base of operations on each planet with access to necessary items.::2
+Discover every biome in every dimension in the game.::2
+Build and travel to a dimension with no mobs and with as few risks of death as possible.::2
+::0
+::0
+=== Technicality ===::1
+Power and machinery are fundemental in any modded Minecraft game. They allow for automation and exciting new materials and challenges.::0
+Challenges like these, some of which test the limits of the mods, have the player explore every nook and crany of Minecraft. Others are fun and unique uses of the additions.::0
+Create a Rainbow Road using Minefactory Reloaded Conveyor Belts.::2
+Create a platform of dry Magmatic Sponges without any walls and hold at least 16 buckets of any liquid of your choosing (except water).::2
+Display all 10 tiers of rockets side-by-side of one another on their respective launch pads.::2
+Use the Advanced Crafting Table to autocraft Buildcraft lasers.::2
+Use the Engineer's Skyhook and Wire Connectors or Relays to travel a distance of at least 64 blocks.::2
+Automate the creation of energy using biodiesel.::2
+Automate the QED so it's as convenient as possible to craft with it.::2
+Automate the production of every singularity including the Eternal Singularity.::2
+::0
+=== Life on the Farm ===::1
+A farm provides so many necessities that it is almost required to have a well-developed farming area. Well... it is actually required now that I mention it. These quests will guide you through making the ultimate farm in Minecraft capable of producing almost every resource and crop in the game.::0
+Build a farm that automatically plants and harvests every seed in the game.::2
+10/10/10 every seed in the game.::2
+Speed up the growth of every crop using any and all means necessary.::2
+Transport all of your crop goods from your farm into a consolidated area. The area can be connected to your Applied Energistics system, but it must be accessible without the use of the system.::2
+Build an animal farm that automatically feeds, breeds, and kills every overworld animal in the game while always being able to repopulate.::2
+Transport all of your animal goods from your animal farm into a consolidated area. The area can be connected to your Applied Energistics system, but it must be accessible without the use of the system.::2 
+::0
+::0
+=== Technical Magic ===::1
+There is more you can experiment and play around with in the world of magic. These quests give you some insight into what's left.::0
+Craft and use a Manastorm Charge. See the Lexica Botania for more information including what it does.::2
+Construct and use a Mana Enchanter. See the Lexica Botania for more information including what it does and how to set it up. Know that the enchanted books will be the enchantments put on the piece of equiptment.::2
+Use a Mana Fluxfield to convert mana into RF. See the Lexica Botania for more information.::2
+As much as possible, automate the trading of items with Alfheim using redstone.::2
+As much as possible, automate Runic Altar recipes using redstone.::2
+Complete all challenges in the Lexica Botania. Click the challenge tab with the trophy icon in the bottom left corner of the Lexica Botania for more information. Feel free to use any and all means necessary to complete the challenges. Use mods other than Botania if you like.::2
+Compare and contrast Botania's "Wrap Function" with Thaumcraft warp.::2
+Kill mobs using Liquid Death.::2
+Summon an Eldritch Obelisk by right-clicking a portal-in-a-box.::2
+Travel to the Outer Lands by going to a Thaumcraft Obelisk structure and right-clicking four Eldrtich Eyes on the pedestal.::2
+Kill the randomly generated boss that spawned in the Outer Lands. Killing this boss will drop a Primordial Pearl::2
+Craft a Primal Crusher.::2
+Craft an Extremely Primordial Pearl.::2
+::0
+::0
+::0
+::0
+::0
+=== Forgery ===::1
+All of the tool forges!::0
+Create a Tool Forge made out of Iron.::2
+Create a Tool Forge made out of Gold.::2
+Create a Tool Forge made out of Diamond.::2
+Create a Tool Forge made out of Emerald.::2
+Create a Tool Forge made out of Cobalt.::2
+Create a Tool Forge made out of Ardite.::2
+Create a Tool Forge made out of Manyullyn.::2
+Create a Tool Forge made out of Copper.::2
+Create a Tool Forge made out of Bronze.::2
+Create a Tool Forge made out of Tin.::2
+Create a Tool Forge made out of Aluminum.::2
+Create a Tool Forge made out of Aluminum brass.::2
+Create a Tool Forge made out of Alumite.::2
+Create a Tool Forge made out of Steel.::2
+::0
+== Champion Beaconator ==::1
+All of the beacons!::0
+Construct a full beacon with a 9x9 base made completely out of Iron Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Gold Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Diamond Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Emerald Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Electrical Steel Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Energetic Alloy Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Vibrant Alloy Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Redstone Alloy Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Conductive Iron Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Pulsating Iron Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Dark Steel Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Soularium Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Cobalt Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Ardite Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Aluminum Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Aluminum Brass Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Alumite Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Steel Blocks.::2
+Construct a full beacon with a 9x9 base made completely out of Solid Ender Blocks.::2
+Have all of the previous beacons active in the same area.::2
+::0
+::0
+::0
+::0
+::0
+=== Get Creative ===::1
+What's your favorite idea? Mine is being creative. How do you get that idea? I just try to think creatively.::0
+Every "creative only" item in Questing Mayhem has a recipe. This makes all creative items obtainable in survival mode without any cheating.::0
+Now is your opportunity to take advantage of this and achieve unlimited everything. This comes at a cost, though.::0
+Craft Bedrock.::2
+Craft an Aura Node.::2
+Spawn an Eldritch Obelisk by using an Eldritch Obelisk Placer.::2
+Craft a Creative Tool Modifier.::2
+Craft an Extra Utilities Creative Upgrade.::2
+Craft a JABBA Creative Upgrade.::2
+Craft a Creative Storage Upgrade.::2
+Craft a Creative Vending Upgrade.::2
+Craft an Applied Energistics Creative Energy Cell.::2
+Craft a Creative Engine.::2
+Craft an Immersive Engineering Creative Capacitor.::2
+Craft a Thermal Expansion Creative Energy Cell.::2
+Craft a Creative Capacitor Bank.::2
+Craft a Creative Buffer.::2
+Craft a Creative ME Storage Cell.::2
+Craft a Creative EMC Storage Cell.::2
+Craft a Creative Portable Tank.::2
+Craft a Creative Satchel.::2
+Craft a Creative Strongbox.::2
+Craft a Creative Cache.::2
+Craft a Creative Machinist's Workbench.::2
+Craft a Creative Dimension Builder.::2
+Craft an Everlasting Guilty Pool.::2
+Craft a Reactor Creative Coolant Port.::2
+Craft a Turbine Creative Steam Generator.::2
+Use a Reactor Creative Coolant Port and a Turbine Creative Steam Generator at the same time.::2
+Craft a Perpetuum Locomotive.::2
+Craft a Creative Flux Capacitor.::2
+Craft a Creative Flux Pack.::2
+Craft a Creative Jetpack.::2
+Fly using Swiftwolf's Rending Gale.::2
+Fly using an Angel Ring.::2
+Craft a Creative Chance Pendant.::2
+Create an RF Tools Dimension with constant Creative Flight using a Flight Module.::2
+Display the Golden Wings, Dragon Wings, Fairy Wings, Feathery Wings, and Invisible Wings of Angel Rings simultaneously.::2
+::0
+::0
+::0
+::0
+::0
+=== The Final Quest ===::1
+This is what you have been working up torwards for probably the past year or more. This is the final quest of Questing Mayhem. After The Mine Grind, Tinkers' Construct casts, Ex Nihilo, Generators, Sag Mills, Seeds, Saplings, Foods, Jetpacks, Obsidian.... so much obsidian, Flowers, Taint, More Obsidian, Blood, Extreme Crafting, Singularities, Red Matter, and the Simple Achievements Book, a modpack that seemed near infinite has come to an end and you are faced with one last challenge. Did you complete Questing Mayhem the way you should have?::0
+Complete all 1,409 quests in Questing Mayhem without cheating. The act of cheating includes, but is not limited to, going into creative mode, spawning any items or blocks in, even when in survival mode, and obtaining items without a recipe other than through quest rewards.::2
+::0
+::0
+::0
+::0
+::0
+Turn the page once you have completed all 1,410 quests in Questing Mayhem including the quest on the left side of this page.::0
+::0
+::0
+::0
+=== Congratulations! ===::1
+Congratulations! You have completed Questing Mayhem. Thank you, from the bottom of my heart, for playing my modpack. I am so glad you pushed through my insane recipes and got to the end. Unless you didn't complete all of the quests in which case you shouldn't be reading this. Hopefully, when you play other packs with modified recipes that may seem difficult, you can think "At least this jetpack doesn't cost as much as it did in Questing Mayhem. I hated that pack." Or something along those lines.::3
+= A Note from the Creator =::1
+I had a primary goal while I was developing this modpack along with its three questbooks. In 2016, I wanted to play a modpack that had a large amount of quests in it that could also be played on a low-end laptop.::3
+I couldn't find any modpacks that fit my needs exactly, but I did find a 1.7.10 modpack called "Minecraft: Your Quest Begins" made by Twitch user surfie007.::3
+This modpack had lots of quests about lots of different things. There was a storage questline, a machines questline, and a farming questline. Not many quests, but it was enough to keep me satisfied.::3
+I found out, however, that the modpack was no longer being updated. This is in no offense to the creator, but I didn't want to play a pack that I knew wouldn't last me but a few months.::3
+I was left with no other good options, so I decided to create my very first modpack. I had never made a Minecraft modpack before nevermind a questbook. Everything was new to me which is why I did some of the things I did.::3
+If you followed Questing Mayhem through development, every update came with a lot of bugs that needed to be fixed. Typos, incorrect quests, wrong recipes, and more. There's probably some bugs in this version of the pack that have yet to be reported.::3
+Nevertheless, February 21st, 2017 marks the first beta release of Questing Mayhem.::3
+The community has grown exponentially since that date. I never could have expected that a modpack I created would have 100 people playing it nevermind over 200,000 people. That is insanity. Thank you all so much.::3
+Questing Mayhem would not be the way it is today without all of those people. I mean that wholeheartedly. I doubt I would have ever made 1,411 quests for a modpack that just I wanted to play. Other people completing the quests gave me motivation and inspiration and for that I am forever grateful.::3
+I love creating modpacks and I don't intend to stop here. I have a lot of other projects that I want to work on now that Questing Mayhem is complete. Depending on when you're reading this, some of those projects may be complete or available for you to play. Who knows.::3
+All I know is Questing Mayhem has changed my life for the better. I love the community it has spawned and I have a better appreciation for modpacks, the modded Minecraft community, and Minecraft as a whole.::3
+I would also like to say a huge and sincere thank you to the Questing Mayhem discord community. The community developed the pack just as much as I did. They reported bugs, took my surveys, listened to my development rants, tolerated my recipes, and kept me in the right track.::3
+Special acknoledgements are in order to Nick and DarkLightning. Those two went above and beyond as head of the moderation team on Discord. If you ever see them in the community, thank them. Thank you, sincerely, for playing Questing Mayhem.::3
+Again, I hope you enjoyed it and keep a look out for future Mantic projects. Thank you.::3
