@@ -1680,6 +1680,26 @@ BuildCraft|Core:engineBlock:2, Combustion Engine
 BuildCraft|Core:engineBlock:3, Creative Engine
 BuildCraft|Core:markerBlock, Land Mark
 BuildCraft|Core:pathMarkerBlock, Path Mark
+BuildCraft|Builders:machineBlock, Quarry
+BuildCraft|Builders:fillerBlock, Filler
+BuildCraft|Builders:frameBlock, Frame
+BuildCraft|Builders:builderBlock, Builder Block
+BuildCraft|Builders:architectBlock, Architect Table
+BuildCraft|Builders:libraryBlock, Electronic Library
+BuildCraft|Builders:constructionMarkerBlock, Construction Mark
+BuildCraft|Robotics:zonePlan, Zone Planner
+BuildCraft|Robotics:requester, Requester
+BuildCraft|Silicon:laserBlock, Laser
+BuildCraft|Silicon:laserTableBlock:0, Assembly Table
+BuildCraft|Silicon:laserTableBlock:1, Advanced Crafting Table
+BuildCraft|Silicon:laserTableBlock:2, Integration Table
+BuildCraft|Silicon:laserTableBlock:3, Charging Table
+BuildCraft|Silicon:laserTableBlock:4, Programming Table
+BuildCraft|Silicon:laserTableBlock:5, Stamping Table
+BuildCraft|Silicon:packagerBlock, Recipe Packager
+BuildCraft|Energy:blockOil, Oil
+BuildCraft|Energy:blockFuel, Fuel
+BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
 BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
 BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
 BuildCraft|Factory:miningWellBlock, Mining Well
@@ -1690,26 +1710,6 @@ BuildCraft|Factory:pumpBlock, Pump
 BuildCraft|Factory:floodGateBlock, Flood Gate
 BuildCraft|Factory:refineryBlock, Refinery
 BuildCraft|Factory:blockHopper, Chute
-BuildCraft|Silicon:laserBlock, Laser
-BuildCraft|Silicon:laserTableBlock:0, Assembly Table
-BuildCraft|Silicon:laserTableBlock:1, Advanced Crafting Table
-BuildCraft|Silicon:laserTableBlock:2, Integration Table
-BuildCraft|Silicon:laserTableBlock:3, Charging Table
-BuildCraft|Silicon:laserTableBlock:4, Programming Table
-BuildCraft|Silicon:laserTableBlock:5, Stamping Table
-BuildCraft|Silicon:packagerBlock, Recipe Packager
-BuildCraft|Robotics:zonePlan, Zone Planner
-BuildCraft|Robotics:requester, Requester
-BuildCraft|Energy:blockOil, Oil
-BuildCraft|Energy:blockFuel, Fuel
-BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
-BuildCraft|Builders:machineBlock, Quarry
-BuildCraft|Builders:fillerBlock, Filler
-BuildCraft|Builders:frameBlock, Frame
-BuildCraft|Builders:builderBlock, Builder Block
-BuildCraft|Builders:architectBlock, Architect Table
-BuildCraft|Builders:libraryBlock, Electronic Library
-BuildCraft|Builders:constructionMarkerBlock, Construction Mark
 chancecubes:Chance_Cube, Chance Cube
 chancecubes:Chance_Icosahedron, Chance Icosahedron
 chancecubes:Giant_Chance_Cube, Giant Chance Cube
@@ -3885,7 +3885,7 @@ exnihilo:witchwater, Witch Water
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entity Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Emission Decompiler)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -5400,6 +5400,7 @@ ironfurnaces:obsidian_furnace, Obsidian Furnace
 ironfurnaces:crystal_furnace, Crystal Furnace
 ironfurnaces:crystal_furnace_active, Crystal Furnace
 JABBA:barrel, Better Barrel
+LogisticsPipes:logisticsSolidBlock:15, Logistics Block Frame
 LogisticsPipes:logisticsSolidBlock:0, Soldering Station
 LogisticsPipes:logisticsSolidBlock:1, Logistics Power Junction
 LogisticsPipes:logisticsSolidBlock:2, Logistics Security Station
@@ -5408,6 +5409,7 @@ LogisticsPipes:logisticsSolidBlock:4, Logistics Fuzzy Crafting Table
 LogisticsPipes:logisticsSolidBlock:5, Logistics Statistics Table
 LogisticsPipes:logisticsSolidBlock:11, Logistics RF Power Provider
 LogisticsPipes:logisticsPipeBlock, LogisticsPipes Pipe Block.name
+LogisticsPipes:logisticsSubMultiBlock, tile.null.name
 NetherOres:tile.netherores.ore.0:0, Nether Coal Ore
 NetherOres:tile.netherores.ore.0:1, Nether Diamond Ore
 NetherOres:tile.netherores.ore.0:2, Nether Gold Ore
@@ -9419,6 +9421,23 @@ BuildCraft|Core:ironGearItem, Iron Gear
 BuildCraft|Core:goldGearItem, Gold Gear
 BuildCraft|Core:diamondGearItem, Diamond Gear
 BuildCraft|Core:paintbrush, Paintbrush
+BuildCraft|Builders:templateItem, Template
+BuildCraft|Builders:blueprintItem, Blueprint
+BuildCraft|Robotics:robot, Robot
+BuildCraft|Robotics:robotStation, item.robotStation.name
+BuildCraft|Robotics:redstone_board, Redstone Board
+BuildCraft|Silicon:redstoneChipset:0, Redstone Chipset
+BuildCraft|Silicon:redstoneChipset:1, Iron Chipset
+BuildCraft|Silicon:redstoneChipset:2, Golden Chipset
+BuildCraft|Silicon:redstoneChipset:3, Diamond Chipset
+BuildCraft|Silicon:redstoneChipset:4, Pulsating Chipset
+BuildCraft|Silicon:redstoneChipset:5, Quartz Chipset
+BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
+BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
+BuildCraft|Silicon:package, Package
+BuildCraft|Silicon:redstoneCrystal, Redstone Crystal
+BuildCraft|Energy:bucketOil, Oil Bucket
+BuildCraft|Energy:bucketFuel, Fuel Bucket
 BuildCraft|Transport:pipeWaterproof, Pipe Sealant
 BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0, Wooden Transport Pipe
 BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0, Emerald Transport Pipe
@@ -9499,23 +9518,6 @@ BuildCraft|Transport:pipeLens:32, Lens (Clear)
 BuildCraft|Transport:pipeLens:33, Filter (Clear)
 BuildCraft|Transport:pipePowerAdapter, item.pipePowerAdapter.name
 BuildCraft|Transport:gateCopier, Gate Copier
-BuildCraft|Silicon:redstoneChipset:0, Redstone Chipset
-BuildCraft|Silicon:redstoneChipset:1, Iron Chipset
-BuildCraft|Silicon:redstoneChipset:2, Golden Chipset
-BuildCraft|Silicon:redstoneChipset:3, Diamond Chipset
-BuildCraft|Silicon:redstoneChipset:4, Pulsating Chipset
-BuildCraft|Silicon:redstoneChipset:5, Quartz Chipset
-BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
-BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
-BuildCraft|Silicon:package, Package
-BuildCraft|Silicon:redstoneCrystal, Redstone Crystal
-BuildCraft|Robotics:robot, Robot
-BuildCraft|Robotics:robotStation, item.robotStation.name
-BuildCraft|Robotics:redstone_board, Redstone Board
-BuildCraft|Energy:bucketOil, Oil Bucket
-BuildCraft|Energy:bucketFuel, Fuel Bucket
-BuildCraft|Builders:templateItem, Template
-BuildCraft|Builders:blueprintItem, Blueprint
 chancecubes:chancePendantTier1, Tier 1 Chance Pendant
 chancecubes:chancePendantTier2, Tier 2 Chance Pendant
 chancecubes:chancePendantTier3, Tier 3 Chance Pendant
@@ -13315,7 +13317,6 @@ LogisticsPipes:item.logisticsParts:0, Logistics HUD Bow
 LogisticsPipes:item.logisticsParts:1, Logistics HUD Glass
 LogisticsPipes:item.logisticsParts:2, Logistics HUD Nose Bridge
 LogisticsPipes:item.logisticsParts:3, Nano Hopper
-LogisticsPipes:item.pipeComponents, item.pipeComponents.name
 LogisticsPipes:item.itemModule:0, Blank Module
 LogisticsPipes:item.itemModule:1, ItemSink module
 LogisticsPipes:item.itemModule:2, Passive Supplier module
@@ -13349,20 +13350,10 @@ LogisticsPipes:item.itemModule:602, Crafting module MK3
 LogisticsPipes:item.itemModule:502, Active Supplier Module
 LogisticsPipes:item.itemModule:16, Creative Tab Based ItemSink module
 LogisticsPipes:item.itemDisk, item.itemDisk.name
-LogisticsPipes:item.itemUpgrade:0, Sneaky Upgrade (UP)
-LogisticsPipes:item.itemUpgrade:1, Sneaky Upgrade (DOWN)
-LogisticsPipes:item.itemUpgrade:2, Sneaky Upgrade (NORTH)
-LogisticsPipes:item.itemUpgrade:3, Sneaky Upgrade (SOUTH)
-LogisticsPipes:item.itemUpgrade:4, Sneaky Upgrade (EAST)
-LogisticsPipes:item.itemUpgrade:5, Sneaky Upgrade (WEST)
 LogisticsPipes:item.itemUpgrade:6, Sneaky Combination Upgrade
+LogisticsPipes:item.itemUpgrade:7, Sneaky Upgrade
 LogisticsPipes:item.itemUpgrade:20, Item Speed Upgrade
-LogisticsPipes:item.itemUpgrade:10, Disconnection Upgrade (UP)
-LogisticsPipes:item.itemUpgrade:11, Disconnection Upgrade (DOWN)
-LogisticsPipes:item.itemUpgrade:12, Disconnection Upgrade (NORTH)
-LogisticsPipes:item.itemUpgrade:13, Disconnection Upgrade (SOUTH)
-LogisticsPipes:item.itemUpgrade:14, Disconnection Upgrade (EAST)
-LogisticsPipes:item.itemUpgrade:15, Disconnection Upgrade (WEST)
+LogisticsPipes:item.itemUpgrade:16, Disconnection Upgrade
 LogisticsPipes:item.itemUpgrade:21, Advanced Satellite Upgrade
 LogisticsPipes:item.itemUpgrade:22, Fluid Crafting Upgrade
 LogisticsPipes:item.itemUpgrade:23, Crafting Byproduct Extraction Upgrade
@@ -13378,10 +13369,16 @@ LogisticsPipes:item.itemUpgrade:40, CC Remote Control Upgrade
 LogisticsPipes:item.itemUpgrade:41, Crafting Monitoring Upgrade
 LogisticsPipes:item.itemUpgrade:42, Opaque Upgrade
 LogisticsPipes:item.itemUpgrade:26, Crafting Cleanup Upgrade
-LogisticsPipes:item.itemUpgrade:44, Upgrade Module Upgrade
+LogisticsPipes:item.itemUpgrade:44, Module Upgrade
 LogisticsPipes:item.logisticsFluidContainer, item.logisticsFluidContainer.name
 LogisticsPipes:item.brokenItem, item.brokenItem.name
 LogisticsPipes:item.pipeController, item.pipeController.name
+LogisticsPipes:item.logisticsChips:0, item.logisticsChips.basicMicrocontroller
+LogisticsPipes:item.logisticsChips:1, item.logisticsChips.basicMicrocontrollerRaw
+LogisticsPipes:item.logisticsChips:2, item.logisticsChips.advancedMicrocontroller
+LogisticsPipes:item.logisticsChips:3, item.logisticsChips.advancedMicrocontrollerRaw
+LogisticsPipes:item.logisticsChips:4, item.logisticsChips.fpga
+LogisticsPipes:item.logisticsChips:5, item.logisticsChips.fpgaRaw
 LogisticsPipes:item.PipeItemsBasicLogistics, item.PipeItemsBasicLogistics.name
 LogisticsPipes:item.PipeItemsRequestLogistics, item.PipeItemsRequestLogistics.name
 LogisticsPipes:item.PipeItemsProviderLogistics, item.PipeItemsProviderLogistics.name
@@ -13414,6 +13411,11 @@ LogisticsPipes:item.PipeFluidSatellite, item.PipeFluidSatellite.name
 LogisticsPipes:item.PipeFluidSupplierMk2, item.PipeFluidSupplierMk2.name
 LogisticsPipes:item.PipeBlockRequestTable, item.PipeBlockRequestTable.name
 LogisticsPipes:item.PipeItemsBasicTransport, item.PipeItemsBasicTransport.name
+LogisticsPipes:item.HSTubeCurve, item.HSTubeCurve.name
+LogisticsPipes:item.HSTubeSpeedup, item.HSTubeSpeedup.name
+LogisticsPipes:item.HSTubeSCurve, item.HSTubeSCurve.name
+LogisticsPipes:item.HSTubeLine, item.HSTubeLine.name
+LogisticsPipes:item.HSTubeGain, item.HSTubeGain.name
 OpenBlocks:hangglider, Hang Glider
 OpenBlocks:generic:0, Glider Wing
 OpenBlocks:generic:1, Beam
@@ -14740,11 +14742,11 @@ ThermalDynamics:cover:0, Fluid Cyanite Cover
 ThermalDynamics:cover:0, Water Spring Cover
 ThermalDynamics:cover:0, Oil Spring Cover
 ThermalDynamics:cover:0, tile.buildToolBlock.name Cover
-ThermalDynamics:cover:0, Mining Pipe Cover
+ThermalDynamics:cover:0, Frame Cover
 ThermalDynamics:cover:0, Oil Cover
 ThermalDynamics:cover:0, Fuel Cover
 ThermalDynamics:cover:0, tile.blockRedPlasma.name Cover
-ThermalDynamics:cover:0, Frame Cover
+ThermalDynamics:cover:0, Mining Pipe Cover
 ThermalDynamics:cover:0, Compact Giant Chance Cube Cover
 ThermalDynamics:cover:0, Creosote Cover
 ThermalDynamics:cover:0, Steam Cover

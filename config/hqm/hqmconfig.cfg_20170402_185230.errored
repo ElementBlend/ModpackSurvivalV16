@@ -1,8 +1,0 @@
-System.IO.DirectoryNotFoundException: Arg_DirectoryNotFoundException
-   at JoshuaKearney.FileSystem.DirectoryBuilder..ctor(FileSystem.StoragePath directory, FileSystem.NameConflictOption conflictResolution)
-   at JoshuaKearney.FileSystem.DirectoryBuilder..ctor(String directory, FileSystem.NameConflictOption conflictResolution)
-   at Edify!<BaseAddress>+0x1f7aec
---- End of stack trace from previous location where exception was thrown ---
-   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
-   at SharedLibrary!<BaseAddress>+0x69993e
-   at SharedLibrary!<BaseAddress>+0x497d7c
